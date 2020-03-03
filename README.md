@@ -1,2 +1,3 @@
 # kakao-clone
- Cloning kakao talk
+
+Kakao Desktop App Cloning
